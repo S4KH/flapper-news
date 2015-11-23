@@ -28,7 +28,5 @@ Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
 === Changelog
-  <tt>angular-devise</tt> 
-  in application.js to 
-  <tt>AngularDevise</tt>
+  <tt>angular-devise</tt>in application.js to<tt>AngularDevise</tt>
   
